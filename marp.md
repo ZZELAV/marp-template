@@ -2,7 +2,7 @@
 marp: true
 title: Title
 theme: custom
-header: Header
+header: header
 footer: footer
 ---
 

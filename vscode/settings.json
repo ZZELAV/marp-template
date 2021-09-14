@@ -1,0 +1,7 @@
+// rename the folder to ".vscode"
+
+{
+    "markdown.marp.themes": [
+      "./themes/custom.css"
+    ]
+  }
