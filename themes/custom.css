@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5 {
 }
 
 section.lead {
-    background-image: url(https://external-content.duckduckgo.com/iu/?u=http://wallup.net/wp-content/uploads/2017/03/28/454058-nature-photography-landscape-mountains-sunrise-mist-clouds-cliff-blue-Alps.jpg&f=1&nofb=1);
+    background-image: url(./img/bg.jpg);
     background-size: cover;
     box-shadow: none;
     color: #eee;
