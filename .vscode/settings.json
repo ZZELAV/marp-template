@@ -3,5 +3,6 @@
 {
     "markdown.marp.themes": [
       "./themes/custom.css"
-    ]
-  }
+    ],
+    "markdown.marp.exportType": "html" 
+}
