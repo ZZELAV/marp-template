@@ -54,3 +54,8 @@ h6 {
     border: 5px solid #222;
     border-radius: 20px;
 }
+
+table thead th {
+    background: none;
+    color: #222;
+}
