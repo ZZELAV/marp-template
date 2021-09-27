@@ -55,6 +55,11 @@ h6 {
     border-radius: 20px;
 }
 
+h6 strong {
+    color: #222;
+    font-weight: bold;
+}
+
 table thead th {
     background: none;
     color: #222;
