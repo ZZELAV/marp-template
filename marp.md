@@ -18,9 +18,9 @@ Subtitle
 
 # Slide 1
 
-- Content
-- Content
-- Content
+* Content
+* Content
+* Content
 
 ---
 
